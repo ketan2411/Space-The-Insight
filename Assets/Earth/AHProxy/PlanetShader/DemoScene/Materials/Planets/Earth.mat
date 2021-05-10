@@ -87,7 +87,7 @@ Material:
     - _CityLightIntensity: 0.106
     - _CityNightIntensity: 0
     - _CloudMapSpecularity: 0.57
-    - _CloudPanSpeed: 0.1
+    - _CloudPanSpeed: 0.04
     - _Cutoff: 0.5
     - _DetailMapSpecularity: -0.94
     - _DetailNormalMapScale: 1
@@ -124,3 +124,4 @@ Material:
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _TextureColor: {r: 1, g: 1, b: 1, a: 1}
     - _node_1532: {r: 0.5017301, g: 0.8529412, b: 0.5477508, a: 1}
+  m_BuildTextureStacks: []

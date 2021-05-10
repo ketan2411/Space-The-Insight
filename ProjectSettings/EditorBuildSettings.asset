@@ -8,4 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Earth/Scenes/earth.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Earth/Scenes/earthMap.unity
+    guid: a04ab116a1249dc4592e00df1fd9cc42
+  - enabled: 1
+    path: Assets/moon/moon.unity
+    guid: 95c7b489e2f642647b85f10838a97feb
+  - enabled: 1
+    path: Assets/moon/apollo/apollo.unity
+    guid: 450c3f18e9a433b4181275468c50b147
+  - enabled: 1
+    path: Assets/Scenes/skybox.unity
+    guid: 9be4c33ae3873804ca6540112638927b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 909d8d8d07b19174e90abefcd6513b92,
+      type: 2}
